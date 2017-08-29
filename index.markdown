@@ -9,6 +9,10 @@ This course is designed to help students gain the skill sets necessary to succes
 
 Make sure you check out our [__Moodle Page__](https://moodle.umt.edu) which contains the **syllabus** and **schedule** for this semester, and where you'll access your homework assignments.
 
+<span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
 # Instructor: Justine Evans
 
@@ -18,7 +22,16 @@ _Office Hours:_ By Appointment
 
 _Slack Channel:_ [**UMMediaArts**](https://ummediaarts.slack.com/) #princ-int-media
 
+<span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
 # Additional Information
 
 ### [University of Montana, School of Media Arts](http://www.umt.edu/mediaarts/)
+
+<span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+<span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
