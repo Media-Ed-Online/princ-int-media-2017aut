@@ -1,12 +1,10 @@
-# MART 341 - Web Development
+# MART 340 - Principels of Interactive Media
 
-This repository is the web site for the University of Montana, School of Media Art's _Web Development_ (mart341) course.
+This repository is the web site for the University of Montana, School of Media Art's _Principles of Interactive Media_ (MART340) course.
 
-### Designed by
-- Professor Michael Musick
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
-- Office: McGill Hall, 224.
+### Instructed by
+- Justine Evans
+- E-Mail: [jusitne.evans@umontana.edu](mailto:justine.evans@umontana.edu).
 
 ## Links
-- [The course website](https://montana-media-arts.github.io/mart341-webDev/)
-- [The course resources repo](https://github.com/Montana-Media-Arts/341-work)
+- [The course website](https://media-ed-online.github.io/princ-int-media)
