@@ -1,9 +1,9 @@
 ---
-title: Part 01
-module: 02
+title: Conclusions
+module: 01
 ---
 
-## Part 1:
+# Con-clue-sions
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
