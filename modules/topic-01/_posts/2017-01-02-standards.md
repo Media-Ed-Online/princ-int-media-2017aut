@@ -19,9 +19,11 @@ The Digital Age is a by-product of the creation of standards regarding computing
 
 ### What Does This Mean For Me?
 
-You make product and experiences. These may be websites, digital art, interactive installations, video games, or films. Every "thing" you make has a story to tell. As we progress through the semester, we'll look at design standards and philosophies, and how we can use them create experiences and communicate with audiences. Have you considered what your design philosophy is?
+You make products and experiences. These may be websites, digital art, interactive installations, video games, or films. Every "thing" you make has a story to tell. As we progress through the semester, we'll look at design standards and philosophies, and how we can use them create experiences and communicate with audiences.
 
-Have you considered what you design philosophy is? Consider Apple's:
+#### Have you considered what you design philosophy is? 
+
+Since it will come up in the film on the next page, let's consider Apple's:
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PKbPPFqONH0" frameborder="0" allowfullscreen></iframe></div>
 
 *You can read more about the history of standardization at the [American National Standards Institute](https://www.standardslearn.org/coursedetails.aspx?key=60).
