@@ -23,7 +23,7 @@ You make products and experiences. These may be websites, digital art, interacti
 
 #### Have you considered what your design philosophy is?
 
-
+ 
 Since it will come up in the film on the next page, let's consider Apple's:
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PKbPPFqONH0" frameborder="0" allowfullscreen></iframe></div>
 
