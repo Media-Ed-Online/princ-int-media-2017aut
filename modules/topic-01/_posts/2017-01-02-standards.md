@@ -15,15 +15,15 @@ One of humankind's greatest achievements is _standardization_, or a community's 
 
 ### Why do we talk about it?
 
-The Digital Age is a by-product of the creation of standards regarding computing development and languages. Many of you are familiar with **web standards** which govern the creation and proliferation of web languages, like HTML, CSS, and JavaScript. Through these standards, web designers have agreed on a set of best pracitices and a design philopsophies that keep the web accessible across browsers, regions, and even the phsycial abilities of its users.
+The Digital Age is a by-product of the creation of standards regarding computing development and languages. Many of you are familiar with **web standards** which govern the creation and proliferation of web languages, like HTML, CSS, and JavaScript. Through these standards, web designers have agreed on a set of best pracitices and design philopsophies that keep the web accessible across browsers, regions, and even the phsycial abilities of its users.
 
 ### What Does This Mean For Me?
 
-You make products and experiences. These may be websites, digital art, interactive installations, video games, or films. Every "thing" you make has a story to tell. As we progress through the semester, we'll look at design standards and philosophies, and how we can use them create experiences and communicate with audiences.
+You make products and experiences. These may be websites, digital art, interactive installations, video games, or films. Every "thing" you make has a story to tell. As we progress through the semester, we'll look at design standards and philosophies, and how we can use them to better create these experiences and communicate with audiences.
 
 #### Have you considered what your design philosophy is?
 
- 
+
 Since it will come up in the film on the next page, let's consider Apple's:
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PKbPPFqONH0" frameborder="0" allowfullscreen></iframe></div>
 
