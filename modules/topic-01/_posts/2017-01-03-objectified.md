@@ -3,13 +3,18 @@ title: Product Design
 module: 01
 ---
 
-## Product Design
+## Product & Industrial Design
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
-Product design is the design of consumer products that considers usability, human factors, ergonomics, and appearance while still maintaining function.
+**Product design** is the design of consumer products that considers usability, human factors, ergonomics, and appearance while still maintaining function.
+
+Before we return to strictly digital applications, I want to consider the relationship with have with "stuff" - the things we use every day and often forget that somebody, somewhere, designed them for us to use. How, maybe in a hidden way, they've shaped the way we live our lives.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceKmkvOLD3Q" frameborder="0" allowfullscreen></iframe></div>
+
 
 ### *Objectified*, Dir. Gary Hustwit (2009)
 
