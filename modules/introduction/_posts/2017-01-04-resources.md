@@ -34,6 +34,7 @@ Please see the previous tab "Meet your Team" for our contact information.
 Much of the course's materials have been linked from or adapted from:
 - [Processing.org](https://processing.org/)
 - [Adobe](http://www.adobe.com/creativecloud.html)
+  - ["Create a Responsive Website"](https://helpx.adobe.com/muse/how-to/responsive-web-design.html?set=muse--get-started--ready-to-use).
 - [Walker Boys Studio](http://www.walkerboystudio.com/wbstudio/)
 
 
