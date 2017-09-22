@@ -11,9 +11,9 @@ module: 02
 
 <p><img src="../imgs/wright-larkin-admin-building.jpg" style="width: 350px; float: right; margin: 0 0 5px 15px; border: none">"Established in 1875, the Larkin Company was a national mail-order business that sold soap products to middle class consumers. Its managers, including John D. Larkin, Elbert Hubbard, Darwin Martin, and William Heath ascribed to the belief that hard work was a moral imperative, and attempted to foster a familial office culture. The construction of a new headquarters was intended to ensure the highest levels of efficiency, productivity, and cooperation among its employees. The mottoes adorning the structure’s balconies and exterior plaques, written primarily by Heath, reinforced these ideals.</p>
 
-<p>Built in 1903, the Larken Administration Building's interior and exterior design and furnishings responded to the daily operations of the company and provided for the welfare of its employees—an early form of air conditioning cooled the space while a communal dining facility, classrooms, and lounge area with a fireplace promoted a congenial office culture." (<a href="http://flwright.org/researchexplore/wrightbuildings/larkincompanyadministrationbuilding">Frank Lloyd Wright Trust</a>)</p>
+<p>"Built in 1903, the Larken Administration Building's interior and exterior design and furnishings responded to the daily operations of the company and provided for the welfare of its employees—an early form of air conditioning cooled the space while a communal dining facility, classrooms, and lounge area with a fireplace promoted a congenial office culture." (<a href="http://flwright.org/researchexplore/wrightbuildings/larkincompanyadministrationbuilding">Frank Lloyd Wright Trust</a>)</p>
 
-We owe much to the prolific arhitect **Frank Lloyd Wright** and his work, including the idea that office spaces could enhance the life of its employees. But what of other spaces?
+We owe much to the prolific architect Frank Lloyd Wright and his work, including the idea that office spaces could enhance the life of its employees. But what of other spaces?
 
 Architecture has always been slow to adapt to new traditions, but with the rise of the sustainability movement and digital technologies, we're seeing architecture becoming _responsive_ and even _interactive_ to the surrounding environment.
 
