@@ -94,9 +94,9 @@ While hex is the primary way to state value on the web, RGB and color names are 
 #### Call to Actions
 **Generally, every page has a Call-to-Action element on it.**
 
-Most websites want something from a viewer. Designers use **call to action** (CTAs) elements to solicit these actions. The most widely-use CTA is the "clickable button," that when clicked provide actions ("Add to Cart") or lead to more information ("Read More"). Other examples are certain forms, subcription signups, social media buttons/widgets, and the newly popular "online chat popup."
+Most websites want something from a viewer. Designers use **call to action** (CTAs) elements to solicit these actions. The most widely-use CTA is the "clickable button," that when clicked provide actions ("Add to Cart") or leads to more information ("Read More"). Other examples are certain forms, subcription signups, social media buttons/widgets, and the newly popular "online chat popup."
 
-CTAs are based in **states**, or reactions to user interaction. The state you're probably most aware of is the _hover_ or _mouseover_, where an element changes when your cursor touches it, but there are actually four states:
+CTAs are based in **states**, or reactions to user input. The state you're probably most aware of is the _hover_ or _mouseover_, where an element changes when your cursor touches it. But there are many other states, often these four:
 - disabled or hidden
 - normal
 - focused (like _hover_) or active
