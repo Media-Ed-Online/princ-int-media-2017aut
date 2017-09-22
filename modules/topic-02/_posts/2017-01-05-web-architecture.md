@@ -3,17 +3,36 @@ title: ...Code and Clicks
 module: 02
 ---
 
-## Web Architecture:
+## Web/Site Architecture:
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
+### Web Architecture
+Web Architecture focuses on the technologies and principles which sustain the Web, including URIs and HTTP. Its foundations lie in systematic and dependable server-client communication, and involves developing applications through additional fields, including data, storage, and networking.
+
+Web architecture is a product of engineers and software developers. _Website_ architecture, however is on us as designers.
+
+### Website Architecture
+Website architecture refers to the way we structure a website to ensure we meet our business goals while delivering a great experience for our users and relates specifically to websites. The overall picture of a website’s architecture includes:
+
+- usability
+- interaction design
+- user interface design
+- information design
+- web design
+- graphic design
+- content strategy ([Max Koh](https://blog.optimalworkshop.com/anatomy-website-website-architecture))
+
+Web designers are responsible for organizing and presenting content inan  engaging way. It is their job to to create the interface of the site, including its site map (blueprint), layout (framework), content (structure), and graphics (finishes).
+
+In accomplish this in a feasible way and for the greatest audience possible, web designers follow **web standards** and **best practices**, as described in the video below.
+
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/234957396?color=FC315A&title=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
 
-
 ### Terms to Know
-You are expected to understand the following terms and their proper usage in web IxD. You will discuss your design choices in your Project write-ups.
+You are expected to understand the following terms and their proper usage in web interaction design. You will discuss your design choices in your Project write-ups.
 
 #### Responsive Web Design (RWD)
 **RWD is considered an essential practice for most designers.**
