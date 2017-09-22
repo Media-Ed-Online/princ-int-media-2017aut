@@ -15,7 +15,7 @@ Web Architecture focuses on the technologies and principles which sustain the We
 Web architecture is a product of engineers and software developers. _Website_ architecture, however is on us as designers.
 
 ### Website Architecture
-Website architecture refers to the way we structure a website to ensure we meet our business goals while delivering a great experience for our users and relates specifically to websites. The overall picture of a website’s architecture includes:
+Web<b>site</b> architecture refers to the way we structure a website to ensure we meet our business goals while delivering a great experience for our users and relates specifically to websites. The overall picture of a website’s architecture includes:
 
 - usability
 - interaction design
@@ -102,9 +102,9 @@ CTAs are based in **states**, or reactions to user interaction. The state you're
 - focused (like _hover_) or active
 - pressed (usually an animation occurs)
 
-<iframe width="100%" height="200" src="//jsfiddle.net/MediaEdOnline/Lt9c6kjo/12/embedded/result/?accentColor=33A3C1&bodyColor=FFF" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="200" src="//jsfiddle.net/Lt9c6kjo/14/embedded/result/?accentColor=FC315A" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-There is a lot of planning that needs to go into using CTAs, including verbage, placement, and design.
+There is a lot of planning that needs to go into using CTAs, including verbiage, placement, and design.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r2lcuFvNeD8" frameborder="0" allowfullscreen></iframe></div>
 
