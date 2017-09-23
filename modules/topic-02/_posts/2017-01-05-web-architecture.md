@@ -15,7 +15,7 @@ Web Architecture focuses on the technologies and principles which sustain the We
 Web architecture is a product of engineers and software developers. _Website_ architecture, however is on us as designers.
 
 ### Website Architecture
-Web<b>site</b> architecture refers to the way we structure a website to ensure we meet our business goals while delivering a great experience for our users and relates specifically to websites. The overall picture of a website’s architecture includes:
+Web<b>site</b> architecture relates specifically to websites, and refers to the way websitse are structured to ensure business goals are met while delivering a great experience to users. The overall picture of a website’s architecture includes:
 
 - usability
 - interaction design
@@ -25,7 +25,7 @@ Web<b>site</b> architecture refers to the way we structure a website to ensure w
 - graphic design
 - content strategy ([Max Koh](https://blog.optimalworkshop.com/anatomy-website-website-architecture))
 
-Web designers are responsible for organizing and presenting content inan  engaging way. It is their job to to create the interface of the site, including its site map (blueprint), layout (framework), content (structure), and graphics (finishes).
+Web designers are responsible for organizing and presenting content in an engaging way. It is their job to to create the interface of the site, including its site map (blueprint), layout (framework), content (structure), and graphics (finishes).
 
 In accomplish this in a feasible way and for the greatest audience possible, web designers follow **web standards** and **best practices**, as described in the video below.
 

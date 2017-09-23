@@ -11,6 +11,8 @@ module: 02
 
 "**Interactive architecture** refers to the branch of architecture which deals with buildings featuring the trio of sensors, processors and effectors, embedded as a core part of its nature and functioning. Interactive architecture encompasses building automation but goes beyond it by including forms of interaction engagements and responses that may lay in pure communication purposes as well as in the emotive and artistic realm, thus entering the field of Interactive Art."
 
+There are many different studios specializing in this field. Here are just a few:
+
 #### CiniMod Studios
 Visit: [http://www.cinimodstudio.com/](http://www.cinimodstudio.com/)
 
