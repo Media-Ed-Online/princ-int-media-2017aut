@@ -29,7 +29,8 @@ Web designers are responsible for organizing and presenting content in an engagi
 
 In accomplish this in a feasible way and for the greatest audience possible, web designers follow **web standards** and **best practices**, as described in the video below.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/234957396?color=FC315A&title=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/234957396?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<p style="margin: 0"><a href="https://player.vimeo.com/video/234957396?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
 
 ### Terms to Know
 You are expected to understand the following terms and their proper usage in web interaction design. You will discuss your design choices in your Project write-ups.
@@ -84,7 +85,8 @@ While hex is the primary way to state value on the web, RGB and color names are 
 
 [Adobe Color](https://color.adobe.com/create/color-wheel), [Paletton](paletton.com), [ColourCode](http://www.colourco.de/), and [Material Design](https://material.io/color) from the video below are all excellent ways of teasing out a color palette. Material Design even offers a color accessibility checker.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xYkz0Ueg0L4" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/236982237?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<p style="margin: 0"><a href="https://player.vimeo.com/video/236982237?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
 
 <br>
 <div style="border-top: 2px dashed #33A3C1; border-bottom: 2px dashed #33A3C1; padding: 10px;">
@@ -106,7 +108,8 @@ CTAs are based in **states**, or reactions to user input. The state you're proba
 
 There is a lot of planning that needs to go into using CTAs, including verbiage, placement, and design.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r2lcuFvNeD8" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/236984037?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<p style="margin: 0"><a href="https://player.vimeo.com/video/236984037?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
 
 <br>
 <div style="border-top: 2px dashed #33A3C1; border-bottom: 2px dashed #33A3C1; padding: 10px;">

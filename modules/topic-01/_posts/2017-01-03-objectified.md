@@ -13,7 +13,8 @@ module: 01
 
 Before we return to strictly digital applications, I want to consider the relationship with have with "stuff" - the things we use every day and often forget that somebody, somewhere, designed them for us to use. How, maybe in a hidden way, they've shaped the way we live our lives.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ceKmkvOLD3Q" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/236977494?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<p style="margin: 0"><a href="https://player.vimeo.com/video/236977494?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
 
 
 ### *Objectified*, Dir. Gary Hustwit (2009)
@@ -23,4 +24,5 @@ Objectified is a feature-length documentary about our complex relationship with 
 Through vérité footage and in-depth conversations, the film documents the creative processes of some of the world’s most influential product designers, and looks at how the things they make impact our lives. What can we learn about who we are, and who we want to be, from the objects with which we surround ourselves?
 
 Please watch the film for this Topic's Group Think. Consider the age we live in, the products we use, and the way we form relationships or detachments to their design.
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ty0fGn8fiUU" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/236970852?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
+<p style="margin: 0"><a href="https://player.vimeo.com/video/236970852?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
