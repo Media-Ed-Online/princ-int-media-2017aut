@@ -3,12 +3,15 @@ title: Stage Design
 module: 03
 ---
 
-## The Design of Spaces:<br />(Plus the Power of Perspecitve!)
+## Experiencing Spaces in Media:
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
+**Next, let's look at spaces we _respond to_ by being present.** These are places that require an audience to perform their core function, like theatre productions, music or athletic venues, or art installations. Their goal is to encourage viewer connection with the presentation through the use of objects in time and space.
+
+### The Power of Perspective
 <p>
 <div style="width: 300px; float: right;">
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/237151304?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>

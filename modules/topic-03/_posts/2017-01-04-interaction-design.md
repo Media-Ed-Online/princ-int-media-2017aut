@@ -3,11 +3,13 @@ title: Interaction Design
 module: 03
 ---
 
-## InterACTION:
+## Interacting with Spaces in Media:
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
+
+**Lastly, let's look at spaces we _experience_ through interaction.** Unlike the others, these space have the potential to be entirely artificial, having no physical presence outside of our method of accessing them. The major requirement of these spaces is viewer participation with systems, and can include applications, website, processing, or all other manner of human-computer interaction.
 
 Controlling perspective works in cinema and other passive media, but not for the interactive arts. With film, the adage is _the viewer as observer_. With interaction, it shifts to _the viewer as participant_. This can get tricky because it's still so new to us, but now that we have some experience with traditional, physical forms and designs, let's begin our transition into the digital world of interactive interfaces and processes.
 
@@ -22,17 +24,17 @@ Interaction designers are interested in specific interactions between users and 
 
 #### Goal-Driven Design
 
-Goal-driven design focuses on satisifiying specific needs and desires of the end-user, not the total capabilities of the techonology. It holds problem solving as the higest priority of the design, and states that designers have a responsibility to combine both the needs of _end-users_ and _stakeholders_ (business owners) to the best of the product's abilities.
+<img src="../imgs/ixd-goal.png" style="float: right; width: 100px; border: none; margin: 0 0 5px 5px;" />Goal-driven design focuses on satisifiying specific needs and desires of the end-user, not the total capabilities of the techonology. It holds problem solving as the higest priority of the design, and states that designers have a responsibility to combine both the needs of _end-users_ and _stakeholders_ (business owners) to the best of the product's abilities.
 
 
 #### Cognitive Psychology
 
-This is a broad field with a lot of dedicated study. For our purposes, we as designers need to understand that users have expectations (conscious and unconsious) about how a product should behave. This means making products that are intuitive, and use common practices like _interface metaphors_ (the trash icon resembles a physical trash can in both graphics and purpose) and _affordances_ (a website button looking like a physical button you can push is an affordance designed so that unfamilar users will still understand how to interact with it).
+<img src="../imgs/ixd-psychology.png" style="float: right; width: 100px; border: none; margin: 0 0 5px 5px;" />This is a broad field with a lot of dedicated study. For our purposes, we as designers need to understand that users have expectations (conscious and unconsious) about how a product should behave. This means making products that are intuitive, and use common practices like _interface metaphors_ (the trash icon resembles a physical trash can in both graphics and purpose) and _affordances_ (a website button looking like a physical button you can push is an affordance designed so that unfamilar users will still understand how to interact with it).
 
 
 #### Usability
 
-Usability, in simple terms, address how easy the product is to access. This includes _learnability_ (how quickly can a new user learn the interface?), _errors_ (how many errors can me made, and how are they addressed), and _efficiency_ (how quickly tasks can be performed), among others.
+<img src="../imgs/ixd-swipe2.png" style="float: right; width: 100px; border: none; margin: 0 0 5px 5px;" />Usability, in simple terms, address how easy the product is to access. This includes _learnability_ (how quickly can a new user learn the interface?), _errors_ (how many errors can me made, and how are they addressed), and _efficiency_ (how quickly tasks can be performed), among others.
 
 
 #### The Five Dimensions
@@ -46,6 +48,9 @@ We may consider "interaction design language" to consist of five dimensions whic
 5. 5D: Behavior
 
 We use these dimensions to break down the experience a user has when communicating with the system. See the next page for more.
+
+<script async src="//jsfiddle.net/MediaEdOnline/2rp4qw2v/8/embed/result/?accentColor=FC315A"></script>
+
 
 
 ### "Why is it Important?"

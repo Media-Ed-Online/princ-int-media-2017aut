@@ -3,15 +3,19 @@ title: Production Design
 module: 03
 ---
 
-## The Psychology of Pattern:
+## Observing Spaces in Media:
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
+**Let's start by looking at spaces we _observe_ as viewers.** We can describe these as spaces that exist without our intervention, like art pieces or films. Tried-and-true design tools and methods are used to communicate complex ideas, often without words or dialogue. How? Well, let's talk about a pillar of visual language that many of you are already familiar with: pattern.
+
 <p><img src="../imgs/shining-pattern-brain.png" alt="Brain shape filled with the pattern of the Overlook Hotel's carpets from The Shining" style="width: 200px; float: right; border: none;" />All design is based in patterns; searching for, finding, constructing, or <i>deconstructing</i>. While initially patterns may appear static (unmoving or flat), it's important to remember that pattern is one of the fundamental principles of design. This is also true of <a href="https://www.interaction-design.org/literature/article/repetition-pattern-and-rhythm" target="_blank">IxD</a>, where pattern, along with rhythm and repetition, are used to create meaning, direct attention, and even simulate motion. Unsuprisingly, pattern can be one of the most ingenious ways of indirect storytelling in the media arts.</p>
 
 Production and stage designers know this well. As many of you are filmmakers as well as designers, let's take a quick look at one of the most prolific filmmakers of the 20th century, who used pattern and perspective as his major method of creating atmosphere - Stanley Kubrick.
+
+### The Psychology of Pattern
 
 Kubrick's spaces were as much characters in his scripts as the actors. This is particularly present in _The Shining_ (1980), whose Overlook Hotel is an impossible maze of rooms, windows, and halls. The Escher-styled design and set anomolies were used to disorientate viewers, and by all accounts, this space could never have existed outside of this fictional stage.
 
