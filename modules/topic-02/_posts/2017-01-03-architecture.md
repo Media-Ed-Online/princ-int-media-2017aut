@@ -19,7 +19,7 @@ Architecture has always been slow to adapt to new traditions, but with the rise 
 
 It's critical that we explore the philosophy of architecture - old and new - and how it has the potential to be interactive art on the grandest scale.
 
-### Abstract: The Art of Design<br/>"Bjarke Ingels on Architecture"
+### Abstract: The Art of Design<br/>"Episode 04: Bjarke Ingels on Architecture"
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [NetFlix Streaming](https://www.netflix.com/title/80093807)
 
 "Bjarke Ingels is fond of saying that architecture is <span style="color: #33A3C1">“the art of turning fiction into fact.”</span> He boasts many talents—as a draftsman, as a salesman, as the charming cultivator of his own winning image—but his greatest asset is a gift for storytelling: an ability to construct a narrative around practical necessities. Often his designs careen in fantastical directions. He is currently building a waste-to-energy plant in Copenhagen with a slanted roof that will serve as a recreational ski slope and a smokestack that will puff a symbolic ring of steam each time it emits a ton of carbon dioxide. For a proposed expansion of Google’s campus in Mountain View, California, Ingels (along with collaborator Thomas Heatherwick) created a wildly elaborate complex of geodesic domes, envisioning a lifestyle of biking, hiking, and coding inside a sunlit glass terrarium. Such imaginative flights have made Ingels famous—and highly sought-after—at an age considered precocious by architecture standards." (via [Wired](https://www.wired.com/2015/09/bjarke-ingels-2-world-trade-center-wtc-2))

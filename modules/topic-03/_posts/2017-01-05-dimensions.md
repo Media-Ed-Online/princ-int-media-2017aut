@@ -1,18 +1,15 @@
 ---
-title: Interaction Design
-module: 02
+title: 5 Dimensions of IxD
+module: 03
 ---
 
-## InterACTION:
+## 5 Dimensions of IxD:
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
-"Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction designers strive to **create meaningful relationships between people and the products and services that they use**, from computers to mobile devices to appliances and beyond. Our practices are evolving with the world." ([The Interaction Design Association](http://www.ixda.org/about/ixda-mission) (IxDA))
-
-
-### "What is IxD?"
+Many fields practice some facet of interaction design. It's a global theology in the technical arts, notably those requiring screens and artifical processes (like software and projections). Let's focus on IxD in this sense, particularly with web design.
 
 Please read this short article on the [5 Dimensions of Interaction Design](https://www.interaction-design.org/literature/article/what-is-interaction-design) by Teo Siang.
 
