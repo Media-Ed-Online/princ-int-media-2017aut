@@ -14,12 +14,3 @@ Many fields practice some facet of interaction design. It's a global theology in
 We don't have time to go over all of the previous methodologies in IxD, so let's just look at one of the more practical practices. Please read this short article on the [5 Dimensions of Interaction Design](https://www.interaction-design.org/literature/article/what-is-interaction-design) by Teo Siang.
 
 ![Animation featuring the 5 Dimesions of Interaction Design](../imgs/5d-interaction-design.gif)
-
-
-### 2007: A New Age of Interaction Begins
-
-Apple comes up often in these sorts of discussions because of its [focus on user-centered design](https://developer.apple.com/library/content//documentation/UserExperience/Conceptual/OSXHIGuidelines/Strategies.html#//apple_ref/doc/uid/20000957-CH19-SW1). **User-centered design** relies on having a deep understanding of who will be using the product. Usability goals, user characteristics, environment, tasks, and workflow of a product, service, or process are given extensive attention at each stage of the design process.
-
-If we need an example of how using user-centered and interaction design principles can change the future, we need look no further than at one of the most important contributions to computing history, which revolutionized how human interact with devices.
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/237364017?color=FC315A&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe></div>
- <p style="margin: 0"><a href="https://player.vimeo.com/video/237364017?color=FC315A&title=0&byline=0&portrait=0" target="_blank"><i>View Larger</i></a></p>
