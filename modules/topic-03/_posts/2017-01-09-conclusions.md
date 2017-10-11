@@ -9,11 +9,11 @@ module: 03
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
 
-Production designers create spaces that are illustrative and are experienced from a distance (on a screen).
+<!--Production designers create spaces that are illustrative and are experienced from a distance (on a screen).
 
 Stage designers create spaces that are illustrative and are dependent on in-person audience. But they are also ephemeral - they do not last.
 
-Interaction designers create spaces that are illustrative, are experienced by communicating with the screen, and are depended on in-person interaction. They are also ephemeral - referring to the system or process itself, and not the physical.
+Interaction designers create spaces that are illustrative, are experienced by communicating with the screen, and are depended on in-person interaction. They are also ephemeral - referring to the system or process itself, and not the physical.-->
 
 An audience can have different roles in any arena, be it a film, theatre, or interactive production. Designers use patterns, time, and psychology to direct how we interact with a space or how that space interacts with _us_. Going forward, it's critical you consider how your design choices will effect the overall atmosphere ("space") of your work, and how it could potentially communicate your personal experiences with others.
 
