@@ -1,5 +1,5 @@
 ---
-title: Platformers
+title: Let's Play
 module: 05
 ---
 
@@ -18,24 +18,23 @@ Since you're building a platformer in Unity, you should take some time to see wh
 \* Denotes game was built using the Unity engine.
 
 
+#### Sub-Grene: Metroidvania
 
-### Sub-Grene: Metroidvania
+The **Metroidvania** sub-genre includes 2D platformers which follow the design structure pioneered by the  _Metroid_ and _Castlevania_ titles.
 
-The **Metroidvania** genre includes 2D platformers which follow the design structure pioneered by the  _Metroid_ and _Castlevania_ titles.
-
-Video games in this model have an emphasis on exploratory structure, but access to parts of the world is often limited by doors or other obstacles that can only be passed once the player has acquired special items, tools, weapons or abilities within the game. Many games fuse platform video game fundamentals with elements of action-adventure games such as _The Legend of Zelda_ or with elements of RPGs.
+Video games in this model have an emphasis on exploratory structure, but access to parts of the world is often limited by doors or other obstacles that can only be passed once the player has acquired special items, tools, weapons or abilities within the game.
 
 
-#### _Ori and the Blind Forest_ (Def. Ed., 2016)*
+##### **Choice A:** _Ori and the Blind Forest_ (Def. Ed., 2016)*
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 10 hrs<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Recommended:** For those looking for a more artistic, dramatic, and narrative experience.<br /><br />
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yZOqrskZ6lI" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yZOqrskZ6lI" frameborder="0" allowfullscreen></iframe></div><br /><br />
 
 
-#### _Guacamelee!_ (Gold Ed., 2013)
+##### **Choice B:** _Guacamelee!_ (Gold Ed., 2013)
 
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Mac, PlayStation, Wii U<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/), $14.99<br />
@@ -47,21 +46,21 @@ Video games in this model have an emphasis on exploratory structure, but access 
 
 <div style="border-top: 2px dashed #33A3C1; margin: 10em -5em 0em -5em;"></div>
 
-### Sub-Genre: Run 'n' Gun
-The **run-and-gun** (or run 'n' gun) genre includes video games in which the player generally controls a lone gunman as they travel on foot through levels defeating enemies.
+#### Sub-Genre: Run 'n' Gun
+The **run-and-gun** (or run 'n' gun) sub-genre includes video games in which the player generally controls a lone gunman as they travel on foot through levels defeating enemies.
 
 Run-and-gun games are often defined as a mix between platformers and shoot 'em ups, are generally side-scrollers, and are notable for often featuring enjoyable co-operative gameplay.
 
-#### _Broforce_ (2015)*
+##### **Choice C:** _Broforce_ (2015)*
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Mac, PlayStation<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/274190/Broforce/), $14.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 8 hrs<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Recommended:** For lovers of '80s and '90s action films, musk, swearing, and gratutious destruction.<br /><br />
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bEe6fZ1_P9Y" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bEe6fZ1_P9Y" frameborder="0" allowfullscreen></iframe></div><br /><br />
 
 
-#### _Cuphead_ (2017)*
+##### **Choice D:**  _Cuphead_ (2017)*
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/268910/Cuphead/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 11 hrs<br />
