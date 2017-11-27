@@ -17,28 +17,34 @@ We may be small, but we're glad to offer you additional (and excellent) places t
 ### Backgrounds
 More from Missoula's own Seazen Studio!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B8yTtmRiRg?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&v=uB8yTtmRiRg" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uB8yTtmRiRg?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&v=uB8yTtmRiRg" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Infinite Runner with Camera and Destroyers
-The video below will explore developing a basic infinite runner game and details the code needed for creating destroyers and camera movement.
+### 2D Scrolling Backgrounds
+Unity live training session on scrolling 2D backgrounds.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7dP7R-GbFkM?rel=0" frameborder="0" allowfullscreen></iframe></div>
-
-
-### 2D Flying Game
-Below is the first of 11 videos that goes with this tutorial series. The full text tutorial with scripts can be found on [Pixelnest](http://pixelnest.io/tutorials/2d-game-unity/).
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kByEbJItcwg?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GtNW9uD94uc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Casanis Tutorial Series
-Here's another great tutorial series for 2D Game Creation!
+### 2D Physics: Area Effector 2D
+In this lesson you can explore the Area Effector 2D component which allows you to add 2D physics forces to objects which enter a trigger volume.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gC0N6ETulv0?list=PL2cNFQAw_ndyKRiobQ2WqVBBBSbAYBobf" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hgUqhsAzGWs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Brackeys
-Brackeys offers some great resources, scripts, and tutorial videos for Unity 2D Development. Check out the [2D Meg Pack](http://devassets.com/assets/2d-mega-pack/) associated with this tutorial.
+### 2D Physics: Distance Joint 2D
+The Distance Joint 2D allows a sprite controlled by 2D Physics to rotate around a point, but maintain a certain distance from that point.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c&v=UbPiCgCkHTE" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wpd2W3bIwx4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+
+### 2D Physics: Slinding & Bouncing
+Sliding and Bouncing are all controlled by a Physics Material applied to a Collider Component. In this video they set up both Bouncy and Slippery 2D Physics Materials, and apply them to GameObjects.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/23HEMKfMKKk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+
+### Audio, Collectables, Slider Joint 2D
+More from Missoula's own Seazen Studio!
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xvza3IaSN2s?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&v=xvza3IaSN2s" frameborder="0" allowfullscreen></iframe></div>
