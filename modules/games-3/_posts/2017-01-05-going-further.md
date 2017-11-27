@@ -14,10 +14,10 @@ Game design is a huge field. Professional development can take years, and there 
 We may be small, but we're glad to offer you additional (and excellent) places to go if you're interested in learning more.
 
 
-### A Closer Look at Using Destoryers and Cameras that Follow
+### Backgrounds
 More from Missoula's own Seazen Studio!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BAgBAH1ze-I?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&time_continue=2&v=BAgBAH1ze-I" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B8yTtmRiRg?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&v=uB8yTtmRiRg" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### Infinite Runner with Camera and Destroyers
