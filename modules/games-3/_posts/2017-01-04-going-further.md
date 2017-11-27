@@ -3,7 +3,7 @@ title: Interested in More?
 module: 07
 ---
 
-## Further Learning:<br />More on Camera and the 2nd Dimension
+## Further Learning:<br />More on Backgrounds, Physics, and Audio
 <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
 <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
