@@ -64,6 +64,6 @@ Run-and-gun games are often defined as a mix between platformers and shoot 'em u
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/268910/Cuphead/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 11 hrs<br />
-<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Recommended:** For those who enjoy classic cartoons - but with a dark twist - and aren't afraid of a challenge.<br /><br />
+<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Recommended:** For those who enjoy classic cartoons - but with a dark twist - and aren't afraid of a (really hard) challenge.<br /><br />
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cBoPbdOaw7M" frameborder="0" allowfullscreen></iframe></div>
