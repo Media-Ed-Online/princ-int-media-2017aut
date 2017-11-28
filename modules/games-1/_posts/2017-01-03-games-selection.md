@@ -25,7 +25,7 @@ The **Metroidvania** sub-genre includes 2D platformers which follow the design s
 Video games in this model have an emphasis on exploratory structure, but access to parts of the world is often limited by doors or other obstacles that can only be passed once the player has acquired special items, tools, weapons or abilities within the game.
 
 
-##### **Choice A:** _Ori and the Blind Forest_ (Def. Ed., 2016)*
+<h5 id="ori"> <b>Choice A:<b/> <i>Ori and the Blind Forest</i> (Def. Ed., 2016)*</h5>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 10 hrs<br />
@@ -34,7 +34,7 @@ Video games in this model have an emphasis on exploratory structure, but access 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yZOqrskZ6lI" frameborder="0" allowfullscreen></iframe></div><br /><br />
 
 
-##### **Choice B:** _Guacamelee!_ (Gold Ed., 2013)
+<h5 id="guacamelee"> <b>Choice B:</b> <i>Guacamelee!</i> (Gold Ed., 2013)</h5>
 
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Mac, PlayStation, Wii U<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/), $14.99<br />
@@ -51,7 +51,7 @@ The **run-and-gun** (or run 'n' gun) sub-genre includes video games in which the
 
 Run-and-gun games are often defined as a mix between platformers and shoot 'em ups, are generally side-scrollers, and are notable for often featuring enjoyable co-operative gameplay.
 
-##### **Choice C:** _Broforce_ (2015)*
+<h5 id="broforce"> <b>Choice C:</b> <i>Broforce</i> (2015)*</h5>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Mac, PlayStation<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/274190/Broforce/), $14.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 8 hrs<br />
@@ -60,7 +60,7 @@ Run-and-gun games are often defined as a mix between platformers and shoot 'em u
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bEe6fZ1_P9Y" frameborder="0" allowfullscreen></iframe></div><br /><br />
 
 
-##### **Choice D:**  _Cuphead_ (2017)*
+<h5 id="cuphead"> <b>Choice D:</b>  <i>Cuphead</i> (2017)*</h5>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/268910/Cuphead/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 11 hrs<br />
