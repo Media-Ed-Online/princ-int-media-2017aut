@@ -25,7 +25,7 @@ The **Metroidvania** sub-genre includes 2D platformers which follow the design s
 Video games in this model have an emphasis on exploratory structure, but access to parts of the world is often limited by doors or other obstacles that can only be passed once the player has acquired special items, tools, weapons or abilities within the game.
 
 
-<h5 id="ori"> <b>Choice A:<b/> <i>Ori and the Blind Forest</i> (Def. Ed., 2016)*</h5>
+<h5 id="ori"> <b>Choice A:</b> <i>Ori and the Blind Forest</i> (Def. Ed., 2016)*</h5>
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Platform:** PC, Xbox<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Access:** [Steam](http://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/), $19.99<br />
 <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ </span>**Approx. Playtime:** 10 hrs<br />
